@@ -1,3 +1,9 @@
+# Custom ignore
+Data/hashed_usernames.pickle
+Data/reddit_data.csv
+Data/reddit_sentences.csv
+Data/Suicide_Data_E16.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

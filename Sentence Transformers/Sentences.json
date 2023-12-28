@@ -1,0 +1,150 @@
+{
+  "suicidal_planning": {
+      "inputs": {
+          "source_sentence": "I don't want to be alive anymore, I just want the pain to stop.",
+          "sentences": [
+              "I've had thoughts of ending my life.",
+              "Sometimes I imagine what my life would be like if I were no longer here.",
+              "I feel like the world would be better off without me.",
+              "I don't want to be here anymore, I don't want to endure this, I'm seriously thinking about killing myself.",
+              "I'm having dark thoughts right now, I'm thinking the world would be better off without me.",
+              "Sometimes I think that if I wasn't here, maybe it would be better for everyone.",
+              "Sometimes, I imagine myself in this life, and I don't see the point of it all.",
+              "I've been thinking about how I could end my life and I have a plan.",
+              "I've started gathering the things I'll need to carry out my plan.",
+              "I know exactly when and how I would do it.",
+              "I know exactly when and how I'd do it, I've got it all worked out.",
+              "I'm so tired of all this, I don't know how much longer I can hold on.",
+              "I’m going to end my life, here’s my plan on how I’ll do it.",
+              "I feel like I'm sinking deeper and deeper, and I can't find help."
+          ]
+      }
+  },
+  "previous_attempt": {
+    "inputs": {
+      "source_sentence": "I tried to kill myself once before, in a similar situation.",
+      "sentences": [
+        "There have been other times when I've come close, and it's similar to what's happening now.",
+        "In the past, I tried to end it all, but I'm in the same situation now.",
+        "Shit got real after my last attempt, I woke up surrounded by a bunch of medical equipment, wondering what the fuck happened.",
+        "After I tried to off myself, I ended up in the psych ward, it was like being stuck in a fuckin' prison.",
+        "I've been down this road before, last time shit hit the fan like this, I almost checked out.",
+        "The same old demons are resurfacing, and it's bringing me back to that dark place where I almost ended it.",
+        "Looking back at my attempts, I can't deny there's a part of me that's glad they didn't work, but there's also this nagging voice wondering if I missed my chance.",
+        "It's fucked up, but there are moments when I wish my attempts had worked, it's like this twisted desire for an escape from all the pain.",
+        "Sometimes, I catch myself thinking, 'Fuck, I wish my attempt had worked, maybe then I wouldn't have to face this shit again', It scares me how strong that thought has become lately.",
+        "There are moments when I look back at my failed attempt and think, 'Why the hell didn't it work?' It's twisted, but part of me wishes it did, now, the fear of trying again is creeping back in.",
+        "I can't shake off the feeling that my life is headed down that dark path again, it's like a sick cycle repeating, and a part of me wonders if it wouldn't be easier if my past attempts had actually succeeded.",
+        "My attempt failed, I'll do better next time.",
+        "The scars from my past attempts are a constant reminder of how vulnerable I am and how easily I could slip back into that downward spiral.",
+        "It's weird, but sometimes I feel guilty for still being alive after trying to end it all, like I owe something to my old self who wanted so badly to be gone."
+      ]
+    }
+  },
+  "ability_to_hope_for_change": {
+    "inputs": {
+      "source_sentence": "I don't know how to get out of this mess, it's like there's no way out.",
+      "sentences": [
+        "Nothing makes sense, I don't see how it could ever get any better.",
+        "I feel like I'm in a jam, and there's no way out.",
+        "I don't have any hope, I don't see any positive way out.",
+        "It's discouraging, I don't think I can change things for the better.",
+        "I'm at the bottom of the barrel, I have no energy to hope for anything.",
+        "I seem to be going in circles, I don't think there's a better future waiting for me.",
+        "I'm so exhausted, everything seems endless and I can't keep going like this.",
+        "I feel so isolated in all of this, like nobody would ever understand what I’m going through.",
+        "I'm just so tired of feeling stuck, every day feels the same, and I can't see any way out, I need help finding hope for a change in my life.",
+        "I don't know what to do anymore, it feels like my reason to live has been completely drained away, i'm desperately searching for any glimmer of hope to hold onto.",
+        "I feel overwhelmed by despair, it's like a heavy cloud is suffocating me, and I can't shake this feeling of hopelessness.",
+        "Life has become unbearable, I used to have dreams and aspirations, but now everything feels meaningless.",
+        "I've reached a point where I can't see any light at the end of the tunnel, I feel trapped in a cycle of despair, and it's becoming harder to find any reason to keep going.",
+        "I've lost all hope in a better future, the pain and sadness have become overwhelming, and I can't see any way to escape this despair."
+      ]
+    }
+  },
+  "consumption": {
+    "inputs": {
+      "source_sentence": "Sometimes I take drugs to escape all this misery.",
+      "sentences": [
+        "Substances help me forget my problems, even if it's only temporary.",
+        "Lately, when shit hits the fan, I find myself reaching for the bottle.",
+        "Drinking has become my go-to escape from this overwhelming situation, It's like I can't deal with it sober anymore.",
+        "I've noticed that whenever I'm feeling down or stressed, I turn to alcohol to numb the pain, It's getting harder to control how much I consume.",
+        "The more I drink, the more it seems to be taking over, It's like I'm using it as a crutch to cope with everything that's going wrong.",
+        "I'm starting to rely on alcohol to get through each day.",
+        "The more I struggle with this distressing situation, the more I find solace in drinking, It's becoming a dangerous habit that's tough to break.",
+        "When I'm intoxicated, everything feels a little less heavy, a little less painful, It's becoming harder to resist the temptation to drink more and more.",
+        "Drinking used to be a social thing for me, but now it's become my way of self-medicating to deal with this fucked-up situation.",
+        "I feel powerless without alcohol, like it's the only thing keeping me afloat in this storm.",
+        "I'm scared of what I might do under the influence, but at the same time, I'm too afraid to face reality sober.",
+        "Alcohol was supposed to be a temporary escape, but now I don't know how to function without it.",
+        "I realize I'm destroying my life with alcohol, but I don't know how to break the cycle.",
+        "I’m scared of what I’m becoming, but I'm so afraid of the pain that I keep drinking to try to escape it."
+      ]
+    }
+ },
+  "ability_to_control_oneself": {
+    "inputs": {
+      "source_sentence": "I have no control over myself, I do anything.",
+      "sentences": [
+        "I'm losing it, I feel like I'm letting myself go.",
+        "I can't stop myself from falling apart, no matter how hard I try.",
+        "I feel like I'm constantly on the edge, just one step away from losing control.",
+        "It's like my impulses have a mind of their own.",
+        "I can't seem to think before I act.",
+        "It's like my brain goes on vacation and my impulses take over, leaving me to deal with the consequences.",
+        "The impulse to do reckless shit is always lingering in the back of my mind.",
+        "I've made so many impulsive decisions that have screwed me over, It's like I'm stuck in this cycle of acting first and dealing with the fallout later.",
+        "Sometimes, I feel like a prisoner to my impulses, they're always lurking, waiting for an opportunity to sabotage any progress I've made.",
+        "I've tried to be more mindful and think things through, but my impulses always seem to win, It's frustrating as hell.",
+        "I know I need to think about the long-term consequences, but in the heat of the moment, my impulses take over, It's a battle I'm constantly fighting.",
+        "I wish I could put my brain on pause, just so I don't act on impulse all the time.",
+        "It's frustrating to realize I've made yet another impulsive choice that sets me back instead of moving forward.",
+        "I try to focus, but my thoughts are too fast and I act before considering the consequences."
+      ]
+    }
+  },
+  "presence_of_a_loved_one": {
+    "inputs": {
+      "source_sentence": "I have no one to talk to or no one who understands me.",
+      "sentences": [
+        "I feel so alone and disconnected from everyone.",
+        "I'm drifting away from my friends and family.",
+        "I feel so alone, like disconnected from everyone.",
+        "I'm drifting away from my friends, my family, games that I couldn't possibly know anything about.",
+        "I don't see anybody realizing how much I'm down in the dumps.",
+        "I don't see anyone who's really interested in how I feel inside.",
+        "Living alone feels like a double-edged sword, on one hand, I have my privacy, but on the other hand, there's no one around to support me when I'm feeling like shit.",
+        "I wish I had someone I could talk to, someone who would understand and listen without judgment, it's lonely to carry this weight all by myself.",
+        "Being alone with my thoughts amplifies the struggles, it feels like I'm drowning in my own emotions and there's no one to throw me a lifeline.",
+        "Living with someone who doesn't understand or dismisses my feelings makes me feel even more alone, it's like there's an invisible barrier between us.",
+        "Living alone means I have no choice but to face my struggles head-on, there's no one to distract me or shield me from the intensity of my emotions.",
+        "I wish I had a shoulder to lean on when everything is falling apart.",
+        "I go days without anyone speaking to me, it makes me realize how isolated I am.",
+        "Sometimes I wonder if anyone would notice if I were gone, that's how ignored I feel."
+      ]
+    }
+  },
+  "ability_to_take_care_of_oneself": {
+    "inputs": {
+      "source_sentence": "I can't take care of myself, I can't take care of my basic needs.",
+      "sentences": [
+        "I let myself go, I make no effort to eat, sleep or take care of myself.",
+        "It's hard to maintain a routine or assume my responsibilities, I've completely dropped out.",
+        "I can't keep up a routine, everything seems insurmountable or like a mountain.",
+        "There's no structure in my life, and that makes me even sicker.",
+        "I feel powerless, unable to accomplish the simplest tasks.",
+        "I'm a wreck, I can't do the things that should be easy.",
+        "I'm so disoriented, I forget important things and it's making my situation worse.",
+        "I feel like I'm in a black hole, struggling to find motivation for anything.",
+        "I can't even get myself to shower regularly, it's like I've given up all hope.",
+        "My apartment is a mess, I don't have the energy to clean or do anything.",
+        "I feel like I'm paralyzed, even getting out of bed is a huge challenge for me.",
+        "I know I should call someone or ask for help, but I can't bring myself to take that step.",
+        "I've let go of everything that used to matter to me, my hobbies, my friends, everything seems uninteresting.",
+        "I'm constantly exhausted, even when I've slept, it feels like I'm carrying a massive weight."
+      ]
+    }
+  }
+}
+  
