@@ -2,7 +2,7 @@
 Project Name: MACHINE LEARNING TECHNIQUES FOR ESTIMATING SUICIDAL RISK ON SOCIAL MEDIA
 Author: Samuel Bernier
 Thesis Paper (French): https://uqo.on.worldcat.org/oclc/1415207814
-GitHub repository: 
+GitHub repository: https://github.com/BernierS/SetFit_Suicidal_Risk
 Huggin Face repository: https://huggingface.co/BernierS/SetFit_Suicidal_Risk
 File Description:
     This file is used to compare the accuracy of different machine learning algorithms on the dataset.
@@ -27,7 +27,7 @@ from keras.layers import Embedding, LSTM, Dense
 from keras.preprocessing.text import Tokenizer
 
 # Load the dataset
-df = pd.read_csv('SetFit/Suicide_Data_E16.csv')
+df = pd.read_csv('Data/Suicide_Data_E16.csv')
 
 # Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(df['sentence'], df['label'], test_size=0.2, random_state=42)

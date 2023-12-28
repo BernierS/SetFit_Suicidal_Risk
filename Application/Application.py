@@ -2,7 +2,7 @@
 Project Name: MACHINE LEARNING TECHNIQUES FOR ESTIMATING SUICIDAL RISK ON SOCIAL MEDIA
 Author: Samuel Bernier
 Thesis Paper (French): https://uqo.on.worldcat.org/oclc/1415207814
-GitHub repository: 
+GitHub repository: https://github.com/BernierS/SetFit_Suicidal_Risk
 Huggin Face repository: https://huggingface.co/BernierS/SetFit_Suicidal_Risk
 File Description:
     Application.py is the main file using the created Dataset to display the information gathered. 
