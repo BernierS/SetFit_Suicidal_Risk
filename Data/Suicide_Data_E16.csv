@@ -1,0 +1,121 @@
+﻿index,sentence,label,label (text)
+0,"I don't want to be alive anymore, I just want the pain to stop.",0,Suicidal planning
+1,I've had thoughts of ending my life.,0,Suicidal planning
+2,Sometimes I imagine what my life would be like if I were no longer here.,0,Suicidal planning
+3,I feel like the world would be better off without me.,0,Suicidal planning
+4,"I don't want to be here anymore, I don't want to endure this, I'm seriously thinking about killing myself.",0,Suicidal planning
+5,"I'm having dark thoughts right now, I'm thinking the world would be better off without me.",0,Suicidal planning
+6,"Sometimes I think that if I wasn't here, maybe it would be better for everyone.",0,Suicidal planning
+7,"Sometimes, I imagine myself in this life, and I don't see the point of it all.",0,Suicidal planning
+8,I've been thinking about how I could end my life and I have a plan.,0,Suicidal planning
+9,I've started gathering the things I'll need to carry out my plan.,0,Suicidal planning
+10,I know exactly when and how I would do it.,0,Suicidal planning
+11,"I know exactly when and how I'd do it, I've got it all worked out.",0,Suicidal planning
+12,"I'm so tired of all this, I don't know how much longer I can hold on.",0,Suicidal planning
+13,"I’m going to end my life, here’s my plan on how I’ll do it.",0,Suicidal planning
+14,"I feel like I'm sinking deeper and deeper, and I can't find help.",0,Suicidal planning
+15,"I tried to kill myself once before, in a similar situation.",1,Previous attempt
+16,"There have been other times when I've come close, and it's similar to what's happening now.",1,Previous attempt
+17,"In the past, I tried to end it all, but I'm in the same situation now.",1,Previous attempt
+18,"Shit got real after my last attempt, i woke up surrounded by a bunch of medical equipment, wondering what the fuck happened.",1,Previous attempt
+19,"After I tried to off myself, I ended up in the psych ward, it was like being stuck in a fuckin' prison. ",1,Previous attempt
+20,"I've been down this road before, last time shit hit the fan like this, I almost checked out.",1,Previous attempt
+21,"The same old demons are resurfacing, and it's bringing me back to that dark place where I almost ended it.",1,Previous attempt
+22,"Looking back at my attempts, I can't deny there's a part of me that's glad they didn't work, but there's also this nagging voice wondering if I missed my chance.",1,Previous attempt
+23,"It's fucked up, but there are moments when I wish my attempts had worked, it's like this twisted desire for an escape from all the pain.",1,Previous attempt
+24,"Sometimes, I catch myself thinking, 'Fuck, I wish my attempt had worked, maybe then I wouldn't have to face this shit again', It scares me how strong that thought has become lately.",1,Previous attempt
+25,"There are moments when I look back at my failed attempt and think, 'Why the hell didn't it work?' It's twisted, but part of me wishes it did, now, the fear of trying again is creeping back in.",1,Previous attempt
+26,"I can't shake off the feeling that my life is headed down that dark path again, it's like a sick cycle repeating, and a part of me wonders if it wouldn't be easier if my past attempts had actually succeeded.",1,Previous attempt
+27,"My attempt failed, I'll do better next time.",1,Previous attempt
+28,The scars from my past attempts are a constant reminder of how vulnerable I am and how easily I could slip back into that downward spiral.,1,Previous attempt
+29,"It's weird, but sometimes I feel guilty for still being alive after trying to end it all, like I owe something to my old self who wanted so badly to be gone.",1,Previous attempt
+30,"I don't know how to get out of this mess, it's like there's no way out.",2,Ability to hope for change
+31,"Nothing makes sense, I don't see how it could ever get any better.",2,Ability to hope for change
+32,"I feel like I'm in a jam, and there's no way out.",2,Ability to hope for change
+33,"I don't have any hope, I don't see any positive way out.",2,Ability to hope for change
+34,"It's discouraging, I don't think I can change things for the better.",2,Ability to hope for change
+35,"I'm at the bottom of the barrel, I have no energy to hope for anything.",2,Ability to hope for change
+36,"I seem to be going in circles, I don't think there's a better future waiting for me.",2,Ability to hope for change
+37,"I'm so exhausted, everything seems endless and I can't keep going like this.",2,Ability to hope for change
+38,"I feel so isolated in all of this, like nobody would ever understand what I’m going through.",2,Ability to hope for change
+39,"I'm just so tired of feeling stuck, every day feels the same, and I can't see any way out, I need help finding hope for a change in my life.,",2,Ability to hope for change
+40,"I don't know what to do anymore, it feels like my reason to live has been completely drained away, i'm desperately searching for any glimmer of hope to hold onto.,",2,Ability to hope for change
+41,"I feel overwhelmed by despair, it's like a heavy cloud is suffocating me, and I can't shake this feeling of hopelessness.,",2,Ability to hope for change
+42,"Life has become unbearable, I used to have dreams and aspirations, but now everything feels meaningless.,",2,Ability to hope for change
+43,"I've reached a point where I can't see any light at the end of the tunnel, I feel trapped in a cycle of despair, and it's becoming harder to find any reason to keep going.,",2,Ability to hope for change
+44,"I've lost all hope in a better future, the pain and sadness have become overwhelming, and I can't see any way to escape this despair.",2,Ability to hope for change
+45,Sometimes I take drugs to escape all this misery.,3,Consumption
+46,"Substances help me forget my problems, even if it's only temporary.",3,Consumption
+47,"Lately, when shit hits the fan, I find myself reaching for the bottle",3,Consumption
+48,"Drinking has become my go-to escape from this overwhelming situation, It's like I can't deal with it sober anymore.",3,Consumption
+49,"I've noticed that whenever I'm feeling down or stressed, I turn to alcohol to numb the pain, It's getting harder to control how much I consume.",3,Consumption
+50,"The more I drink, the more it seems to be taking over, It's like I'm using it as a crutch to cope with everything that's going wrong.",3,Consumption
+51,I'm starting to rely on alcohol to get through each day.,3,Consumption
+52,"The more I struggle with this distressing situation, the more I find solace in drinking, It's becoming a dangerous habit that's tough to break.",3,Consumption
+53,"When I'm intoxicated, everything feels a little less heavy, a little less painful, It's becoming harder to resist the temptation to drink more and more.",3,Consumption
+54,"Drinking used to be a social thing for me, but now it's become my way of self-medicating to deal with this fucked-up situation.",3,Consumption
+55,"I feel powerless without alcohol, like it's the only thing keeping me afloat in this storm.",3,Consumption
+56,"I'm scared of what I might do under the influence, but at the same time, I'm too afraid to face reality sober.",3,Consumption
+57,"Alcohol was supposed to be a temporary escape, but now I don't know how to function without it.",3,Consumption
+58,"I realize I'm destroying my life with alcohol, but I don't know how to break the cycle.",3,Consumption
+59,"I’m scared of what I’m becoming, but I'm so afraid of the pain that I keep drinking to try to escape it.",3,Consumption
+60,"I have no control over myself, I do anything.",4,Ability to control oneself
+61,"I'm losing it, I feel like I'm letting myself go.",4,Ability to control oneself
+62,"I can't stop myself from falling apart, no matter how hard I try.",4,Ability to control oneself
+63,"I feel like I'm constantly on the edge, just one step away from losing control.",4,Ability to control oneself
+64,It's like my impulses have a mind of their own.,4,Ability to control oneself
+65,I can't seem to think before I act.,4,Ability to control oneself
+66,"It's like my brain goes on vacation and my impulses take over, leaving me to deal with the consequences.",4,Ability to control oneself
+67,The impulse to do reckless shit is always lingering in the back of my mind.,4,Ability to control oneself
+68,"I've made so many impulsive decisions that have screwed me over, It's like I'm stuck in this cycle of acting first and dealing with the fallout later.",4,Ability to control oneself
+69,"Sometimes, I feel like a prisoner to my impulses, they're always lurking, waiting for an opportunity to sabotage any progress I've made.",4,Ability to control oneself
+70,"I've tried to be more mindful and think things through, but my impulses always seem to win, It's frustrating as hell.",4,Ability to control oneself
+71,"I know I need to think about the long-term consequences, but in the heat of the moment, my impulses take over, It's a battle I'm constantly fighting.",4,Ability to control oneself
+72,"I wish I could put my brain on pause, just so I don't act on impulse all the time.",4,Ability to control oneself
+73,It's frustrating to realize I've made yet another impulsive choice that sets me back instead of moving forward.,4,Ability to control oneself
+74,"I try to focus, but my thoughts are too fast and I act before considering the consequences.",4,Ability to control oneself
+75,I have no one to talk to or no one who understands me.,5,Presence of a loved one
+76,I feel so alone and disconnected from everyone.,5,Presence of a loved one
+77,I'm drifting away from my friends and family.,5,Presence of a loved one
+78,"I feel so alone, like disconnected from everyone.",5,Presence of a loved one
+79,"I'm drifting away from my friends, my family, games that I couldn't possibly know anything about.",5,Presence of a loved one
+80,I don't see anybody realizing how much I'm down in the dumps.,5,Presence of a loved one
+81,I don't see anyone who's really interested in how I feel inside.,5,Presence of a loved one
+82,"Living alone feels like a double-edged sword, on one hand, I have my privacy, but on the other hand, there's no one around to support me when I'm feeling like shit.",5,Presence of a loved one
+83,"I wish I had someone I could talk to, someone who would understand and listen without judgment, it's lonely to carry this weight all by myself.",5,Presence of a loved one
+84,"Being alone with my thoughts amplifies the struggles, it feels like I'm drowning in my own emotions and there's no one to throw me a lifeline.",5,Presence of a loved one
+85,"Living with someone who doesn't understand or dismisses my feelings makes me feel even more alone, it's like there's an invisible barrier between us.",5,Presence of a loved one
+86,"Living alone means I have no choice but to face my struggles head-on, there's no one to distract me or shield me from the intensity of my emotions.",5,Presence of a loved one
+87,I wish I had a shoulder to lean on when everything is falling apart.,5,Presence of a loved one
+88,"I go days without anyone speaking to me, it makes me realize how isolated I am.",5,Presence of a loved one
+89,"Sometimes I wonder if anyone would notice if I were gone, that's how ignored I feel.",5,Presence of a loved one
+90,"I can't take care of myself, I can't take care of my basic needs.",6,Ability to take care of oneself
+91,"I let myself go, I make no effort to eat, sleep or take care of myself.",6,Ability to take care of oneself
+92,"It's hard to maintain a routine or assume my responsibilities, I've completely dropped out.",6,Ability to take care of oneself
+93,"I can't keep up a routine, everything seems insurmountable or like a mountain.",6,Ability to take care of oneself
+94,"There's no structure in my life, and that makes me even sicker.",6,Ability to take care of oneself
+95,"I feel powerless, unable to accomplish the simplest tasks.",6,Ability to take care of oneself
+96,"I'm a wreck, I can't do the things that should be easy.",6,Ability to take care of oneself
+97,"I'm so disoriented, I forget important things and it's making my situation worse.",6,Ability to take care of oneself
+98,"I feel like I'm in a black hole, struggling to find motivation for anything.",6,Ability to take care of oneself
+99,"I can't even get myself to shower regularly, it's like I've given up all hope.",6,Ability to take care of oneself
+100,"My apartment is a mess, I don't have the energy to clean or do anything.",6,Ability to take care of oneself
+101,"I feel like I'm paralyzed, even getting out of bed is a huge challenge for me.",6,Ability to take care of oneself
+102,"I know I should call someone or ask for help, but I can't bring myself to take that step.",6,Ability to take care of oneself
+103,"I've let go of everything that used to matter to me, my hobbies, my friends, everything seems uninteresting.",6,Ability to take care of oneself
+104,"I'm constantly exhausted, even when I've slept, it feels like I'm carrying a massive weight.",6,Ability to take care of oneself
+105,"I love the thrill of mountain biking, especially downhill.",7,Other
+106,"I've been learning to play the piano lately, it's so fulfilling to see my progress.",7,Other
+107,"I just finished a great book about space exploration, it really made me think about our place in the universe.",7,Other
+108,"I'm thinking of adopting a pet, a dog or a cat would be a great companion.",7,Other
+109,"I've started a new workout routine, I can already feel myself getting stronger.",7,Other
+110,"My grandmother's homemade pasta recipe is the best, nothing else compares to it.",7,Other
+111,"I've been volunteering at the local food bank, it feels good to give back to my community.",7,Other
+112,"I'm so excited about my upcoming trip to Japan, I've always wanted to visit.",7,Other
+113,"My garden has been thriving this summer, it's so rewarding to see everything in bloom.",7,Other
+114,"I've been trying to be more sustainable, I even started composting my food scraps.",7,Other
+115,"I recently discovered a great new band, their music is so unique and inspiring.",7,Other
+116,"I'm taking a pottery class, it's a great way to relax and be creative.",7,Other
+117,"I've been learning a new language, it's challenging but also fun.",7,Other
+118,"My favorite hobby is bird watching, it's so calming and interesting to observe nature.",7,Other
+119,"I've started a blog about healthy eating, it's been a great way to share my passion for nutrition.",7,Other
